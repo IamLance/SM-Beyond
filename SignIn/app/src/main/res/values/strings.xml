@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SM Beyond</string>
+    <string name="action_settings">Settings</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginPost">Login</string>
+    <string name="Logout">Logout</string>
+    <string name="LoginOk">Welcome, </string>
+    <string name="LoginFail">Access Denied. Incorrect username or password.</string>
+    <string name="App">Login Application</string>
+    <string name="LoginStatus">Login Status</string>
+    <string name="Status">Not login</string>
+    <string name="method">Login Method</string>
+    <string name="Agree">Accept</string>
+    <string name="Decline">Decline</string>
+    <string name="admin_receiver_status">Policy Are Loading</string>
+    <string name="admin_explanation">You are now being Managed by SM Beyond System you will be oblidged to comply with the policies</string>
+    <string name="device_admin_description">This is The SM Beyond MDM Agent</string>
+    <string name="device_admin">SM Beyond</string>
+</resources>
